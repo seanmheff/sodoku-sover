@@ -1,0 +1,16 @@
+{
+  "name": "setter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sean Heffernan <seanmheff@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.4000"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11"
+  }
+}
